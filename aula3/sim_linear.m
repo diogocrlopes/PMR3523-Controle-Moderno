@@ -4,5 +4,3 @@ function [xg_linear, yg_linear, psi_linear] = sim_linear(t)
  yg_linear = simOut.get('yg_linear');
  psi_linear = simOut.get('psi_linear');
 end
-
-
